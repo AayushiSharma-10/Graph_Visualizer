@@ -53,6 +53,7 @@ pos = nx.spring_layout(G)
 print('Graph created......',end='\n')
 
 print('--------------- MENU ---------------')
+print("1. BFS ")
 print('1. Disjoint Set Union ')
 print('2. Floyd-Warshall Algorithm')
 print("3. Kosaraju's Algorithm ")
